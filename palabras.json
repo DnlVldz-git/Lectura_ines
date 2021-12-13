@@ -1,0 +1,106 @@
+{
+    "nombre" : [
+        "NOMBRE",
+        "NOM",
+        "OMBRE",
+        "NOMORE"
+    ],
+    "obtenerNombre": [
+        "/",
+        "SEXO H",
+        "DE NACIMIENTO",
+        "ACIMIENTO",
+        "FECHA",
+        "ECHA",
+        "FEOHA DE",
+        "FOAD",
+        "CDAO",
+        "EDAO",
+        "the",
+        "EOAD",
+        "FECHA) DE NACIMIENTO",
+        "NOMBRE",
+        "NOMB",
+        "NOMORE",
+        "$",
+        "NOMERE",        
+        "SEXO",
+        "sexo",
+        "SEX",
+        "sex",
+        "exo",
+        "SEXO H",
+        "SEXO M",
+        "SEXG H",
+        "SEXS M",
+        "SEXG M",
+        "DEXCA M",
+        "CARR.",
+        "COL."
+    ],
+    "fecha":[
+        "DE NACIMIENTO",
+        "ACIMIENTO",
+        "FECHA",
+        "ECHA",
+        "FEOHA DE",
+        "FECHA) DE NACIMIENTO"
+    ],
+    "sexo":[
+        "SEXO",
+        "sexo",
+        "SEX",
+        "sex",
+        "exo",
+        "SEXO H",
+        "SEXO M",
+        "SEXG H",
+        "SEXS M",
+        "SEXG M",
+        "DEXCA M"
+    ],
+    "domicilio":[
+        "DOMICILIO",
+        "OMICILIO",
+        "MICILIO",
+        "CILIO"
+    ],
+    "domicilioErrores":[
+        "[",
+        "the",
+        "*",
+        "-",
+        "signature"
+    ],
+    "clave":[
+        "LECTOR",
+        "DE ELECTOR",
+        "ERECTOR",
+        "CLAVE DE ELECTOR",
+        "CLAVE DE RECTOR",
+        "EDEBLECIÓR"       
+    ],    
+    "claveErrores": [
+        "CURP",
+        "CUPP",
+        "CREDENCIAL",
+        "\""
+    ],
+    "caracteres":[
+        "-",
+        ".",
+        "*",
+        ","
+    ],
+    "seccion":[
+        "SECCIÓN",
+        "SECCIÓN",
+        "ECCION",
+        "ECCIÓN"
+    ],    
+    "vigencia":[
+        "VIGENCIA",
+        "VIGENC",
+        "GENCIA"
+    ]
+}
